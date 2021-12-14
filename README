@@ -1,1 +1,10 @@
-关于skynet-Window
+安装 MinGW
+安装 gcc g++
+安装 pthread (dev)
+运行 MinGW\msys\1.0\msys.bat
+运行 prepare.sh
+运行 make
+建议使用 MinGW\msys\1.0\msys.bat 进行编译
+
+创建bat
+   skynet.exe mhj\\config
